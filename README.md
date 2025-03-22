@@ -1,1 +1,1 @@
-# Lung_Cancer_Detection
+# Lung Cancer Detection
