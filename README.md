@@ -44,7 +44,7 @@ pip install pandas numpy matplotlib opencv-python scikit-learn
 2. Navigate to the project directory:
 
    ```bash
-   cd Lung_Cancer_Classification
+   cd Lungs cancer detection using svm and k-means algorithm
    ```
 
 3. Run the Python script:
