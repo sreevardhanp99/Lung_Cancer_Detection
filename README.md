@@ -38,7 +38,7 @@ pip install pandas numpy matplotlib opencv-python scikit-learn
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/Lung_Cancer_Classification.git
+   git clone https://github.com/sreevardhanp99/Lung_Cancer_Classification.git
    ```
 
 2. Navigate to the project directory:
