@@ -50,7 +50,7 @@ pip install pandas numpy matplotlib opencv-python scikit-learn
 3. Run the Python script:
 
    ```bash
-   python main.py
+   python SVM_KMEANS.py
    ```
 
 4. Perform the following actions via the GUI:
